@@ -15,15 +15,19 @@ To get started with the project, make sure you have the following prerequisites 
 
    ```shell
    git clone https://github.com/chacharGIT/elbit-project.git
+   ```
    
  2. Change to the project directory:
  
    ```shell
    cd elbit-project
+   ```
    
 3. Start the virtual machine using Vagrant:
+
    ```shell
    vagrant up
+   ```
    
 This command will provision a development environment with all the necessary dependencies.
 
