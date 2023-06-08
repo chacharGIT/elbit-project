@@ -17,7 +17,7 @@ To get started with the project, make sure you have the following prerequisites 
    git clone https://github.com/chacharGIT/elbit-project.git
    ```
    
- 2. Change to the project directory:
+2. Change to the project directory:
  
    ```shell
    cd elbit-project
